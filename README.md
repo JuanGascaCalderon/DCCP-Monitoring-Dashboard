@@ -5,7 +5,7 @@
     
 <div align="center">
   <img src="https://github.com/user-attachments/assets/2a724821-46d1-4f6c-a6e8-e0f9b39cabf4" alt="DCPP Monitoring Dashboard for Analyst" />
-  <img src="https://github.com/user-attachments/assets/f7cfc374-2b24-453c-8c35-1338af0461d9" alt="DCPP Monitoring Dashboard for Analyst" />
+  
+  <img src="https://github.com/user-attachments/assets/7f552c54-3f74-4ef7-8481-93de9c5ae50f" alt="DCPP Monitoring Dashboard for Analyst" />
 </div>
-
 
